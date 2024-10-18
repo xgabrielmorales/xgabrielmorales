@@ -10,7 +10,7 @@ IDE: Neovim v0.10.2, Emacs 29.1-4
 Technologies.languages: Python
 Technologies.Frameworks: Django, FastAPI
 Technologies.Tools: Git, Docker, AWS, Ansible, CI/CD
-Technologies.libraries: Celery, Pandas, Numpy, Selenium
+Technologies.Libraries: Celery, Pandas, Numpy, Selenium
 Technologies.Databases: PostgreSQL, MySQL, Redis, MongoDB
 
 Languages.Real: English, Spanish
