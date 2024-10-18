@@ -7,7 +7,7 @@ Kernel: 6.11.1-xgm-custom
 Host: xgm
 IDE: Neovim v0.10.2, Emacs 29.1-4
 
-Technologies.languages: Python
+Technologies.Languages: Python
 Technologies.Frameworks: Django, FastAPI
 Technologies.Tools: Git, Docker, AWS, Ansible, CI/CD
 Technologies.Libraries: Celery, Pandas, Numpy, Selenium
